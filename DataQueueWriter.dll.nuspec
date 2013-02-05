@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DataQueueWriter</id>
+    <version>2.0.0</version>
+    <authors>Brenton McSweyn</authors>
+    <owners>Brenton McSweyn</owners>
+    <projectUrl>https://github.com/brentonmcs/DataQueueWriter</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Tool to allow queuing up writes to a data service class and not having to wait for the results</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>DataService Queuing Async Writing</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
